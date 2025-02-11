@@ -9,11 +9,11 @@ Currently, two official plugins are available:
 
 ⚙️ Tech Stack
 
-React.js,
+    React.js,
 
-Appwrite,
+    Appwrite,
 
-Tailwind CSS
+    Tailwind CSS
 
 🔋 Features
 
